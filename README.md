@@ -1,6 +1,6 @@
 # Resources
 
-#CSS  
+#CSS
 [neumorphism.io](https://neumorphism.io/#55b9f3)  
 [CSSLAYOUT.IO](https://csslayout.io/)  
 [SHAPEDEVIDER](https://www.shapedivider.app/)  
@@ -9,7 +9,7 @@
 [COLOR HUNT](https://colorhunt.co/)  
 [AM I RESPONSIVE?](http://ami.responsivedesign.is/)  
   
-#CSS ANIMATION  
+#CSS ANIMATION
 [ANIMISTA](https://animista.net/)  
 [ALL ANIMATION](http://all-animation.github.io/)  
 [BOUNCE.JS](http://bouncejs.com/)  
@@ -18,14 +18,14 @@
 [CSS SKELETON](http://getskeleton.com/)  
 [MINI.CSS](https://minicss.org/)  
   
-#FREE ICONS  
+#FREE ICONS
 [THE NOUN PROJECT](https://thenounproject.com/)  
 [ICONS8](https://icons8.com/)  
 [MATERIAL ICON](https://material.io/resources/icons/)  
 [FLAT ICON](https://www.flaticon.com/)  
 [ICON JAM](https://jam-icons.com/)  
   
-#CSS FRAMEWORKS  
+#CSS FRAMEWORKS
 [BOOTSTRAP](https://getbootstrap.com/)  
 [BULMA](https://bulma.io/)  
 [FOUNDATION](https://get.foundation/)  
@@ -33,7 +33,7 @@
 [SEMANTIC UI](https://semantic-ui.com/)  
 [TAILWIND](https://tailwindcss.com/)  
   
-#JAVASCRIPT PLUGINS & LIBRARIES  
+#JAVASCRIPT PLUGINS & LIBRARIES
 [OVERLAY SCROLLBARS](https://kingsora.github.io/OverlayScrollbars/#!overview)  
 [FULLSCREEN SLIDER](https://alvarotrigo.com/fullPage/)  
 [SIMPLEPARALLAX](https://simpleparallax.com/)  
@@ -47,7 +47,7 @@
 [INTRO.JS](https://introjs.com/)  
 [PIXI.JS](https://www.pixijs.com/)  
   
-##JAVASCRIPT ANIMATION  
+##JAVASCRIPT ANIMATION
 [CHOREOGRAPHER-JS](https://christinecha.github.io/choreographer-js/)  
 [GREENSOCK JS](https://greensock.com/)  
 [ANIME.JS](https://animejs.com/)  
@@ -62,7 +62,7 @@
 [SCROLLREVEAL](https://scrollrevealjs.org/)  
 [SCROLLR](https://prinzhorn.github.io/skrollr/)  
   
-##JAVASCRIPT VIDEO  
+##JAVASCRIPT VIDEO
 [VIDEO.JS](https://videojs.com/)  
 [PLYR](https://plyr.io/)  
 [JPLAYER](https://jplayer.org/)  
@@ -71,7 +71,7 @@
 [FLOWPLAYER](https://flowplayer.com/)  
 [POPCORN JS](http://mozilla.github.io/popcorn-docs/getting-started/)  
   
-##JAVASCRIPT AUDIO  
+##JAVASCRIPT AUDIO
 [HOWLER.JS](https://howlerjs.com/)  
 [TONE.JS](https://tonejs.github.io/)  
 [WAVESURFER.JS](https://wavesurfer-js.org/)  
@@ -81,7 +81,7 @@
 [SOUND JS](https://createjs.com/docs/soundjs/modules/SoundJS.html)  
 [LOUDLINKS](https://loudlinks.rocks/)  
   
-##JAVASCRIPT FORMS  
+##JAVASCRIPT FORMS
 [QUILL (TEXT EDITOR)](https://quilljs.com/)  
 [CLEAVE.JS](https://nosir.github.io/cleave.js/)  
 [JQUERY VALIDATION](https://jqueryvalidation.org/)  
@@ -90,7 +90,7 @@
 [FINE UPLOADER](https://fineuploader.com/)  
 [PICKADATE.JS](https://amsul.ca/pickadate.js/)  
   
-##JAVASCRIPT VISUALIZATION  
+##JAVASCRIPT VISUALIZATION
 [THREE.JS](https://threejs.org/)  
 [SWIPER (SLIDER)](https://swiperjs.com/)  
 [FABRIC.JS](http://fabricjs.com/)  
@@ -99,7 +99,7 @@
 [SVGO](https://github.com/svg/svgo)  
 [CHART.JS](https://www.chartjs.org/)  
   
-#WEBSITE TEMPLATES  
+#WEBSITE TEMPLATES
 [CRUIP](https://cruip.com/free-templates/)  
 [THEMES FOR APP](https://themesfor.app/)  
 [FREEHTML5](https://freehtml5.co/)  
@@ -108,7 +108,7 @@
 [MOBIRISE](https://mobirise.com/)  
 [COLORLIB](https://colorlib.com/)  
   
-#FREE PNG IMAGES  
+#FREE PNG IMAGES
 [STICKPNG](https://www.stickpng.com/)  
 [PIXABAY](https://pixabay.com/)  
 [PNG IMG](http://pngimg.com/)  
@@ -117,6 +117,6 @@
 [FREE PNG IMG](https://www.freepngimg.com/)  
 [FAV PNG](https://favpng.com/)  
   
-#CHROME EXTENSIONS  
+#CHROME EXTENSIONS
 [DAILY](https://chrome.google.com/webstore/detail/dailydev-news-for-busy-de/jlmpjdjjbgclbocgajdjefcidcncaied?hl=en)  
 [SITEMOD.IO](https://chrome.google.com/webstore/detail/sitemodio/efjbaneaebkanjmhengnedpllfdiocin?hl=en)  
